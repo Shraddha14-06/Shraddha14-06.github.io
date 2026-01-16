@@ -1,13 +1,21 @@
 body {
-    body {
     font-family: Arial, sans-serif;
-    background-color: #f4f4f4;
+    background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
     padding: 40px;
     max-width: 900px;
     margin: auto;
+    line-height: 1.5;
 }
 
+header {
+    text-align: center;
+    margin-bottom: 40px;
+    background-color: #4a90e2;  /* header color */
+    color: white;
+    padding: 20px;
+    border-radius: 8px;
 }
+
 
 h1 {
     font-size: 32px;
