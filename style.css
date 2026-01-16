@@ -10,7 +10,7 @@ body {
 header {
     text-align: center;
     margin-bottom: 40px;
-    background-color: #4a90e2;  /* header color */
+    background-color: rgb(93, 54, 4);;  /* header color */
     color: white;
     padding: 20px;
     border-radius: 8px;
