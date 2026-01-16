@@ -28,3 +28,12 @@ a {
     text-decoration: none;
     color: #0066cc;
 }
+header {
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+header h1 {
+    margin-bottom: 10px;
+}
+
